@@ -132,7 +132,7 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\JordanHall.Core\src\JordanHall.IbmClassifierService\JordanHall.IbmClassifierService.csproj">
+    <ProjectReference Include="..\..\..\JordanHall.Core\src\JordanHall.IbmClassifierService\JordanHall.IbmClassifierService.csproj">
       <Project>{ab91db40-37b3-45f4-bb88-dc347e4a8d25}</Project>
       <Name>JordanHall.IbmClassifierService</Name>
     </ProjectReference>
