@@ -5,10 +5,6 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifier", "Classifier\Classifier.csproj", "{1BBB1995-017B-465D-B5F1-A2469F020854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JordanHall.IbmClassifierService", "..\..\JordanHall.Core\src\JordanHall.IbmClassifierService\JordanHall.IbmClassifierService.csproj", "{AB91DB40-37B3-45F4-BB88-DC347E4A8D25}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JordanHall.Core", "..\..\JordanHall.Core\src\JordanHall.Core\JordanHall.Core.csproj", "{0B82CB4A-74B1-48A9-AD88-DF0D3FDCC23C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{1BBB1995-017B-465D-B5F1-A2469F020854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BBB1995-017B-465D-B5F1-A2469F020854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BBB1995-017B-465D-B5F1-A2469F020854}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AB91DB40-37B3-45F4-BB88-DC347E4A8D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB91DB40-37B3-45F4-BB88-DC347E4A8D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB91DB40-37B3-45F4-BB88-DC347E4A8D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB91DB40-37B3-45F4-BB88-DC347E4A8D25}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B82CB4A-74B1-48A9-AD88-DF0D3FDCC23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B82CB4A-74B1-48A9-AD88-DF0D3FDCC23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B82CB4A-74B1-48A9-AD88-DF0D3FDCC23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B82CB4A-74B1-48A9-AD88-DF0D3FDCC23C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

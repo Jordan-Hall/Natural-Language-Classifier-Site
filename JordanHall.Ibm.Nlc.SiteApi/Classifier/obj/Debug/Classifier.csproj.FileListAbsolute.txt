@@ -23,7 +23,6 @@ C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\Jordan
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\System.Web.Http.dll
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\System.Web.Http.WebHost.dll
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\JordanHall.Core.dll
-C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\JordanHall.IbmClassifierService.pdb
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\SimpleInjector.xml
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
@@ -32,7 +31,6 @@ C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\Jordan
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\System.Net.Http.Formatting.xml
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\System.Web.Http.xml
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\System.Web.Http.WebHost.xml
-C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\bin\JordanHall.Core.pdb
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\obj\Debug\Classifier.csprojResolveAssemblyReference.cache
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\obj\Debug\Classifier.dll
 C:\Users\nukez_000\Source\Repos\JordanHall.NaturalLanguageClassifier.Site\JordanHall.Ibm.Nlc.SiteApi\Classifier\obj\Debug\Classifier.pdb
